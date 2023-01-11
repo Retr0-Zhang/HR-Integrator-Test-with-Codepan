@@ -3,6 +3,8 @@ Copyright (c) 2023 Retr0-Zhang
 
 HR-Integrator-Test Project
 
+Run this Project : dist/index.html
+
 Build with basic html css.
 
 Before starting, please take into consideration the following points: 

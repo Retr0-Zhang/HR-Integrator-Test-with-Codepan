@@ -12,14 +12,14 @@
   position: relative;
 }
 
-.section1__section1 {
+.Navbar_section {
   display: flex;
   flex-direction: column;
   position: relative;
   flex-grow: 1;
 }
 
-.section1__flexCol {
+.Navbar_section_flexCol {
   display: flex;
   flex-direction: column;
   position: relative;
@@ -27,7 +27,7 @@
   margin: 20px 0px 0px;
 }
 
-.section1__flexCol > .item {
+.Navbar_section_flexCol > .item {
   display: flex;
   flex-direction: column;
   position: relative;
